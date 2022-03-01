@@ -1,0 +1,2 @@
+# NewsMonkey
+A react application
